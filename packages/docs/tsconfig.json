@@ -1,0 +1,4 @@
+{
+  "extends": "@jefyelin-ds-ig-learning/ts-config/react.json",
+  "include": ["src"]
+}
