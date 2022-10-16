@@ -1,0 +1,2 @@
+import{M as t}from"./index.ff5ae57e.js";import"./index.db5d894c.js";import"./iframe.cb127a10.js";import"./index.7fd3be00.js";import"./jsx-runtime.af25a2b7.js";const s={title:"Surfaces/MultiStep",component:t,args:{size:4,currentStep:1}},m={},a={args:{currentStep:4}},l=["Primary","Full"];export{a as Full,m as Primary,l as __namedExportsOrder,s as default};
+//# sourceMappingURL=multi-step.stories.6a4fb86f.js.map

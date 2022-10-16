@@ -1,0 +1,2 @@
+import{A as t}from"./index.ff5ae57e.js";import"./index.db5d894c.js";import"./iframe.cb127a10.js";import"./index.7fd3be00.js";import"./jsx-runtime.af25a2b7.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/jefyelin.png",alt:"Jean Arruda"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=avatar.stories.ae1e7b3c.js.map
