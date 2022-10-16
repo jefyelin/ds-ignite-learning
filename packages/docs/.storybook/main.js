@@ -13,4 +13,11 @@ module.exports = {
   features: {
     storyStoreV7: true,
   },
+  viteFinal: (config, { configType }) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/ds-ignite-learning/'
+    }
+
+    return config
+  },
 }
