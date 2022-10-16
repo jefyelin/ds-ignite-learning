@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/jefyelin.png',
     alt: 'Jean Arruda',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
